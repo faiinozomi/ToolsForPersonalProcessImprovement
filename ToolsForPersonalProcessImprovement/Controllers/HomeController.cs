@@ -10,7 +10,6 @@ namespace ToolsForPersonalProcessImprovement.Controllers
     {
         public ActionResult Index()
         {
-            //dd test branch Fook
             return View();
         }
 

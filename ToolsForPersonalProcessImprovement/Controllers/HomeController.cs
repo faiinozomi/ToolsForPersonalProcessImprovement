@@ -10,7 +10,6 @@ namespace ToolsForPersonalProcessImprovement.Controllers
     {
         public ActionResult Index()
         {
-            //dd test
             return View();
         }
 

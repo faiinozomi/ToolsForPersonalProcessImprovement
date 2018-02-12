@@ -9,10 +9,10 @@ namespace ToolsForPersonalProcessImprovement.Controllers
     public class UserController : Controller
     {
         // GET: User
-        // test merge 3
         public ActionResult Index()
         {
             return View();
         }
+        
     }
 }

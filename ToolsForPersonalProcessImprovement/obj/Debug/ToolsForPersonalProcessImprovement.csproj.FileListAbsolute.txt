@@ -36,7 +36,7 @@ D:\senior\Program\ToolsForPersonalProcessImprovement\bin\Microsoft.AI.Dependency
 D:\senior\Program\ToolsForPersonalProcessImprovement\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\senior\Program\ToolsForPersonalProcessImprovement\bin\Microsoft.AI.WindowsServer.xml
 D:\senior\Program\ToolsForPersonalProcessImprovement\bin\Microsoft.AI.Web.xml
-D:\senior\Program\ToolsForPersonalProcessImprovement\obj\Debug\ToolsForPersonalProcessImprovement.csprojResolveAssemblyReference.cache
 D:\senior\Program\ToolsForPersonalProcessImprovement\obj\Debug\ToolsForPersonalProcessImprovement.csproj.CoreCompileInputs.cache
 D:\senior\Program\ToolsForPersonalProcessImprovement\obj\Debug\ToolsForPersonalProcessImprovement.dll
 D:\senior\Program\ToolsForPersonalProcessImprovement\obj\Debug\ToolsForPersonalProcessImprovement.pdb
+D:\senior\Program\ToolsForPersonalProcessImprovement\obj\Debug\ToolsForPersonalProcessImprovement.csprojResolveAssemblyReference.cache

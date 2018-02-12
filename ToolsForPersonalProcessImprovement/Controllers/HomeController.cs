@@ -10,6 +10,11 @@ namespace ToolsForPersonalProcessImprovement.Controllers
     {
         public ActionResult Index()
         {
+            string accountUser = null;
+            if (accountUser == null)
+            {
+                return RedirectToAction("login", "Home");
+            }
             return View();
         }
 
@@ -23,6 +28,13 @@ namespace ToolsForPersonalProcessImprovement.Controllers
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
+
+        public ActionResult Login()
+        {
+            ViewBag.Message = "login page.";
 
             return View();
         }
